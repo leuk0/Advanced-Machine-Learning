@@ -1,0 +1,3 @@
+# Ignore data (dataset) and aml (venv) directories
+/data
+/aml
