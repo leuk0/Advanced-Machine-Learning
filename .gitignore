@@ -1,5 +1,8 @@
+.vscode
+
 # Ignore data (dataset) and aml (venv) directories
 /data
 /aml
-.vscode
-*.pth
+
+# Ignore model checkpoints
+# *.pth 
