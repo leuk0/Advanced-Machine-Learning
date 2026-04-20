@@ -17,6 +17,7 @@ ipython==9.12.0
 ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 Jinja2==3.1.6
+joblib==1.5.3
 jupyter_client==8.8.0
 jupyter_core==5.9.1
 kagglehub==1.0.0
@@ -30,6 +31,7 @@ nest-asyncio==1.6.0
 networkx==3.6.1
 numpy==2.4.3
 packaging==26.0
+pandas==3.0.2
 parso==0.8.6
 pillow==12.1.1
 platformdirs==4.9.6
@@ -43,15 +45,20 @@ python-dateutil==2.9.0.post0
 PyYAML==6.0.3
 pyzmq==27.1.0
 requests==2.33.1
+scikit-learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
 setuptools==70.2.0
 six==1.17.0
 stack-data==0.6.3
 sympy==1.14.0
+threadpoolctl==3.6.0
 torch==2.11.0+cu130
 torchvision==0.26.0+cu130
 tornado==6.5.5
 tqdm==4.67.3
 traitlets==5.14.3
 typing_extensions==4.15.0
+tzdata==2026.1
 urllib3==2.6.3
 wcwidth==0.6.0
