@@ -15,4 +15,8 @@ A képek jellemzően laboratóriumi körülmények között készültek, homogé
 
 A modellek és a hozzá tartozó fájlok a _models/<model_név>_ könyvtárakban találhatóak.
 
+Legjobb modell: _[model15e](models/15_epoch_train/model15e.md)_
+
+Másik modell: _[model10e](models/10_epoch_train/model10e.md)_
+
 _A dokumentáció többi része megtalálható az **[aml.ipynb](aml.ipynb)** jupyter jegyzetfüzetben!_
